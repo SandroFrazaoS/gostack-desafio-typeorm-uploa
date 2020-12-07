@@ -1,3 +1,4 @@
+// este arquivo executa a conexao com o banco de dados
 import { createConnection, getConnectionOptions, Connection } from 'typeorm';
 
 export default async (name = 'default'): Promise<Connection> => {
