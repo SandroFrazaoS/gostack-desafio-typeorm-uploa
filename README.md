@@ -16,7 +16,7 @@ Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de tr
 Essa será uma aplicação que deve armazenar transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
 
 
-Projeto - GoFinanceWeb
+Projeto - GoFinances Web
 
 
 Esse app foi desenvolvido atraces do BootCamp [Rocketseat bootcamp](https://rocketseat.com.br)
